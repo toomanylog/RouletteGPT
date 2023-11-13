@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="chemin/vers/le/logo.png" alt="Logo RouletteGPT" width="400"/>
+</p>
 
 # RouletteGPT
 
