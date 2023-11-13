@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="chemin/vers/le/logo.png" alt="Logo RouletteGPT" width="400"/>
+  <img src="https://raw.githubusercontent.com/toomanylog/RouletteGPT/main/RouletteGPT_banner.png" alt="Logo RouletteGPT" width="800"/>
 </p>
 
 # RouletteGPT
