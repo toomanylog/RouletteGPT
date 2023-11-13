@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/toomanylog/RouletteGPT/main/RouletteGPT_banner.png" alt="Logo RouletteGPT" width="800"/>
 </p>
 
-# RouletteGPT
-
 ## Présentation
 RouletteGPT est une application d'intelligence artificielle innovante conçue pour analyser et prédire les résultats de la roulette. Utilisant des modèles de réseaux de neurones avancés implémentés avec TensorFlow, ce projet offre une approche unique pour comprendre et interagir avec le jeu de roulette.
 
